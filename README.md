@@ -21,3 +21,5 @@ This is a website for Coffee Shop designed using HTML and CSS to display the spe
 This is a website for Coffee Shop designed using HTML and CSS to display the speciality and features of the Coffee Shop to increase its reach through branding .
 
 * Link for the demo :https://coffee-shop-website-design.netlify.app/
+# Screenshot 
+![Coffee_website_homepage](https://github.com/sonadukane18/Coffee_Shop_Website/assets/120325353/9dc730d8-ee38-4a90-84dd-55d03b84c948)
