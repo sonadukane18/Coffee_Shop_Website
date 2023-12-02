@@ -15,7 +15,7 @@ This is a website for Coffee Shop designed using HTML and CSS to display the spe
 
 * Editor : - visual studio code with Laetus: Dark Vibrant Theme
 * Browser : - google chrome
-* UI Tool : - Figma
+* UI Tool : - Figma 
 
 # Demo
 This is a website for Coffee Shop designed using HTML and CSS to display the speciality and features of the Coffee Shop to increase its reach through branding .
